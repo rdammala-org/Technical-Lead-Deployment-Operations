@@ -4,7 +4,7 @@ Personal portfolio site for Rajesh Dammala — Technical Lead profile showcasing
 
 ## Live Site
 
-[https://rdammala.github.io/Technical-Lead-Deployment-Operations/](https://rdammala.github.io/Technical-Lead-Deployment-Operations/)
+[https://rdammala-org.github.io/Technical-Lead-Deployment-Operations/](https://rdammala-org.github.io/Technical-Lead-Deployment-Operations/)
 
 ## Tech Stack
 
